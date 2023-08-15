@@ -9,6 +9,13 @@ import SwiftUI
 
 @main
 struct my_test_appApp: App {
+//    static func main(){
+//        let window = UIWindow(frame: UIScreen.main.bounds)
+//        let viewController = ViewController()
+//        window.rootViewController = viewController
+//        window.makeKeyAndVisible()
+//    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
